@@ -1,0 +1,10 @@
+C:\Users\Riccardo\source\repos\GuideWire\GuideWire\bin\Debug\GuideWire.exe.config
+C:\Users\Riccardo\source\repos\GuideWire\GuideWire\bin\Debug\GuideWire.exe
+C:\Users\Riccardo\source\repos\GuideWire\GuideWire\bin\Debug\GuideWire.pdb
+C:\Users\Riccardo\source\repos\GuideWire\GuideWire\obj\Debug\GuideWire.csprojAssemblyReference.cache
+C:\Users\Riccardo\source\repos\GuideWire\GuideWire\obj\Debug\GuideWire.Properties.Resources.resources
+C:\Users\Riccardo\source\repos\GuideWire\GuideWire\obj\Debug\GuideWire.csproj.GenerateResource.cache
+C:\Users\Riccardo\source\repos\GuideWire\GuideWire\obj\Debug\GuideWire.csproj.CoreCompileInputs.cache
+C:\Users\Riccardo\source\repos\GuideWire\GuideWire\obj\Debug\GuideWire.exe
+C:\Users\Riccardo\source\repos\GuideWire\GuideWire\obj\Debug\GuideWire.pdb
+C:\Users\Riccardo\source\repos\GuideWire\GuideWire\obj\Debug\GuideWire.Form1.resources
